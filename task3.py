@@ -26,9 +26,9 @@ Enter a number: 4.0
 """
 num1 = float(input("enter a number: "))
 if num1 >= 0 and num1 == int(num1):
-    print(f"{num1} is a positive intager")
+    print(f"{num1} is a positive integer")
 else:
-    print(f"{num1} is not a positive intager")
+    print(f"{num1} is not a positive integer")
 
 
 
